@@ -1,6 +1,6 @@
 These are the MR analysis codes used in the paper "Potential Therapeutic Targets for Sarcopenia Identified by Mendelian Randomization" by Wei Jiang. et al.
 
-The analysis codes are modified from those kindly shared online by Henry A. et al.(https://github.com/alhenry/cvd1-hf)[1]. Thank them very much. The analyses were performed using TwoSampleMR[2] and MendelianRandomization[3] packages. 
+The analysis codes are modified from those kindly shared online by Henry A. et al.[1] (https://github.com/alhenry/cvd1-hf). Thank them very much. The analyses were performed using TwoSampleMR[2] and MendelianRandomization[3] packages. 
 
 References:
 1. Henry A, Gordillo-Maranon M, Finan C, Schmidt AF, Ferreira JP, Karra R, et al. Therapeutic Targets for Heart Failure Identified Using Proteomics and Mendelian Randomization. Circulation. 2022 Apr 19;145(16):1205-17.
