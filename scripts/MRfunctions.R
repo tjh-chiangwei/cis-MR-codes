@@ -27,7 +27,7 @@ df_data <- function(mydata2){
   dfdata$se.y=as.numeric(dfdata$se.y)
   
   return(dfdata)
-} #转化MR分析文件
+} #脳陋禄炉MR路脰脦枚脦脛录镁
 
 
 # Blank results
@@ -193,7 +193,7 @@ run_MR_all <- function(df_mr, ldrho){
     
     res_Egger <- MR_Egger(df_mr, ldrho=ldrho_ins)
     
-    res2 <- rbind(res_IVW, res_PCA_0.99, res_PCA_0.90, res_Egger, res_WM, res_Mode)
+    res2 <- rbind(res_IVW, res_PCA_0.99, res_PCA_0.90, res_Egger)
   }
   return(res2)
 }
