@@ -9,7 +9,7 @@ exp <-extract_instruments(
 #OR local summary data
 exp <- format_data(
   exp,
-  type = 'exposure',#��¶
+  type = 'exposure',#±©Â¶
   snps = exp$variant_id,
   head = Ture,
   phenotype_col = "phenotype",
@@ -44,7 +44,7 @@ Outcome <- format_data(
   snps = Exposure$SNP,
   head = Ture,
   phenotype_col = "phenotype", 
-  snp_col = "variant_id",P
+  snp_col = "variant_id",
   beta_col = "beta", 
   se_col = "standard_error", 
   effect_allele_col ="effect_allele", 
