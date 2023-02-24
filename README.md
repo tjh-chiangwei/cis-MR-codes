@@ -1,4 +1,4 @@
-These are the MR analysis codes used in the paper "Potential Therapeutic Targets for Sarcopenia Identified by Mendelian Randomization" by Wei Jiang. et al.
+These are the MR analysis codes used in the paper "Potential Therapeutic Targets for Sarcopenia Identified by Mendelian Randomization" by Wei Jiang. et al(https://doi.org/10.1093/ageing/afad024).
 
 The analysis codes are modified from those kindly shared online by Henry A. et al.[1] (https://github.com/alhenry/cvd1-hf). Thank them very much. The analyses were performed using TwoSampleMR[2] and MendelianRandomization[3] packages. 
 
